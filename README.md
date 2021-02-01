@@ -1,5 +1,13 @@
-데이터 분석 프로젝트!
+PROJECT 1 : Python 언어, EDA 
 
-지금까지 공부한 것을 바탕으로 진행한 데이터 분석 프로젝트들입니다.
-인터넷 강의 혹은 다른 자료들을 보면서 만들었습니다.
-언어는 모두 Python을 사용했습니다.
+PROJECT 2 : Python 언어, EDA, Feature Engineering, Cross Validation, XGBoost
+
+PROJECT 3 : Python 언어, EDA, XGBoost, Shap Value
+
+PROJECT 4 : Python 언어, EDA, XGBoost, Shap Value
+
+PROJECT 4-2 : Python 언어, WordCloud 
+
+PROJECT 5 : Python 언어, EDA, Random Forest
+
+PROJECT 6 : Python 언어, EDA, Random Forest, XGBoost
